@@ -1,0 +1,749 @@
+{
+	"config": {
+		"colors": {
+			"background": "#fff",
+			"text": "#161616",
+			"experimental": false,
+			"theme": "light"
+		},
+		"indicator": true,
+		"pagination": false,
+		"pageNumbers": true,
+		"enableCustomCSS": true,
+		"hasAnswerFeedback": true,
+		"disableInteractionSummary": true,
+		"disableLessonScore": false,
+		"minimumScore": 0,
+		"hasScormExitButton": true,
+		"preventLogoutOnExit": false,
+		"background": "fit_content_assets/text_above_3_uiolhc.png",
+		"customCSS": "",
+		"direction": "ltr",
+		"logo": "fit_content_assets/laemnloorf8p9j32b9t7.png",
+		"language": "en",
+		"soundDisabled": false,
+		"incompleteOnFail": false
+	},
+	"isAudio": false,
+	"isOnline": false,
+	"index": 0,
+	"duration": 330,
+	"slides": [
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.TitleSlideDataDocument",
+			"id": "c24e6f10-5e21-434d-b066-5eb1c2c78da9",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "c24e6f10-5e21-434d-b066-5eb1c2c78da9",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "title",
+			"subtype": "default",
+			"name": 0,
+			"displayIndex": 1,
+			"templateName": "Title Slide",
+			"templateDescription": "Introduce your lesson",
+			"permanent": false,
+			"data": {
+				"narration": {
+					"progress_on_completion": false,
+					"can_not_be_skipped": false,
+					"audio_file": null
+				},
+				"title": "<h1><font size=\"6\" color=\"#89123e\">** Flow chart and expected outcomes.  **",
+				"titleType": "html",
+				"subtitle": "A step by step guide",
+				"subtitleType": "html",
+				"buttonText": "Ok, let's go!",
+				"exitButton": false
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ImageMapSlideDataDocument",
+			"id": "5c3036ff-7edd-13f8-28fd-89a7930daa99",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "5c3036ff-7edd-13f8-28fd-89a7930daa99",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "image-map",
+			"subtype": "highlight-single-region",
+			"name": 1,
+			"displayIndex": 2,
+			"templateName": "Image Map",
+			"templateDescription": "Map out details through a series of images",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"url": "fit_content_assets/wrxj9fgrj8s8poq1fre7.png",
+				"prompt": "<font size=\"4\" color=\"#FFFFFF\">Explore each region of the image",
+				"appearance": {
+					"waypointColor": "None"
+				},
+				"lightbox": {
+					"background": "transparent",
+					"textColor": "White"
+				},
+				"waypoints": [
+					{
+						"image": "fit_content_assets/cxv3ixitcp58jswbvgoj.png",
+						"caption": "",
+						"narration": null,
+						"region": {
+							"yMax": 0.22,
+							"xMax": 0.3179972627737227,
+							"yMin": 0,
+							"xMin": 0.03350821167883212
+						}
+					},
+					{
+						"image": "fit_content_assets/aqvlscamnhbqhhpq1b4h.png",
+						"caption": "",
+						"narration": "",
+						"region": {
+							"yMax": 0.21333333333333335,
+							"xMax": 0.7041058394160585,
+							"yMin": 0,
+							"xMin": 0.35775547445255473
+						}
+					},
+					{
+						"image": "fit_content_assets/wbgpva11ivz0i6wvapav.png",
+						"caption": "",
+						"narration": "",
+						"region": {
+							"yMax": 0.31234375,
+							"xMax": 1,
+							"yMin": 0.009010416666666667,
+							"xMin": 0.7035812043795621
+						}
+					},
+					{
+						"image": "fit_content_assets/evshsnctrsp3q1nyxrkt.png",
+						"caption": "<font size=\"4\" color=\"#0000\">**At this point training could come to an end if the trainer believes the ALT can continue without support. **",
+						"narration": "",
+						"region": {
+							"yMax": 0.5533333333333333,
+							"xMax": 1,
+							"yMin": 0.31,
+							"xMin": 0.6639598540145984
+						}
+					},
+					{
+						"image": "fit_content_assets/ll220vagcdsamjompt3o.png",
+						"caption": "<font size=\"3\" color=\"#0000\">**At this point training could come to an end if the trainer believes the ALT can continue without support. **",
+						"narration": "",
+						"region": {
+							"yMax": 0.7133333333333334,
+							"xMax": 0.6705976277372264,
+							"yMin": 0.47,
+							"xMin": 0.3190921532846715
+						}
+					},
+					{
+						"image": "fit_content_assets/pissyiaga6iaxhezvzza.png",
+						"caption": "",
+						"narration": "",
+						"region": {
+							"yMax": 0.76,
+							"xMax": 0.3154197080291972,
+							"yMin": 0.46,
+							"xMin": 0.007732664233576643
+						}
+					},
+					{
+						"image": "fit_content_assets/kgzyqemot6p1vq4zj3zq.png",
+						"caption": "",
+						"narration": "",
+						"region": {
+							"yMax": 0.9966666666666667,
+							"xMax": 0.35045620437956204,
+							"yMin": 0.75,
+							"xMin": 0.043818430656934304
+						}
+					},
+					{
+						"image": "fit_content_assets/dhvwymuvw2oehbxcpdq0.png",
+						"caption": "",
+						"narration": "",
+						"region": {
+							"yMax": 1,
+							"xMax": 0.7138914233576642,
+							"yMin": 0.7633333333333333,
+							"xMin": 0.4010492700729926
+						}
+					},
+					{
+						"image": "fit_content_assets/puuvh1lxmseuh2p46s5v.png",
+						"caption": "",
+						"narration": "",
+						"region": {
+							"yMax": 0.46,
+							"xMax": 0.6886405109489052,
+							"yMin": 0.23333333333333334,
+							"xMin": 0.35517791970802914
+						}
+					},
+					{
+						"image": "fit_content_assets/rudh9uamz9qcudxlwk2e.png",
+						"caption": " <font size=\"5\" color=\"#000\">**Training has failed. Put together all your documents and hold a meeting with the IM team to discuss all the steps you took. It is possible you will be asked to offer the ALT more support. **",
+						"narration": "",
+						"region": {
+							"yMax": 1,
+							"xMax": 1,
+							"yMin": 0.6966666666666664,
+							"xMin": 0.7232436131386859
+						}
+					}
+				],
+				"doneText": "Continue",
+				"zoom": false,
+				"stickyCaptions": false
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.CircleTheAnswerSlideDataDocument",
+			"id": "20b14cf2-b850-8e45-d2f2-cff727ad1178",
+			"metadata": {
+				"questions": [
+					{
+						"question": {
+							"category": null,
+							"content": "<font size=\"4\" color=\"#89123e\">**What do you need to do when you are notified of an upcoming EDGE training?**",
+							"id": "8db8aee2-cf87-4f38-b9e5-118360bf502e",
+							"type": "text",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "Send a welcome email and explain all the goals an ALT must complete to meet expectation.",
+								"correct": false,
+								"id": "6d2460b4-f054-4b6c-a897-dc54be040221",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "Call the ALT and let them know about the goals of the training and not to worry.",
+								"correct": false,
+								"id": "53bc5e08-33df-48a3-afeb-8ce3ebdab673",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "Call the sales coordinator and ask them what the school’s problem is.",
+								"correct": false,
+								"id": "2ceacf08-17fd-4dea-ba19-2701ce794b92",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "Read all the information shared with you and put together your materials. ",
+								"correct": true,
+								"id": "7e42e549-5490-453a-9914-6f9385c414b4",
+								"type": "text",
+								"text": null
+							}
+						],
+						"slideId": "20b14cf2-b850-8e45-d2f2-cff727ad1178"
+					}
+				],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "20b14cf2-b850-8e45-d2f2-cff727ad1178",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "circle-the-answer",
+			"subtype": "circle-the-answer",
+			"name": 2,
+			"displayIndex": 3,
+			"templateName": "Circle the Answer",
+			"templateDescription": "",
+			"permanent": false,
+			"data": {
+				"challenge_configuration": {
+					"nb_stars": null,
+					"weighting": 1
+				},
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"title": "<font size=\"4\" color=\"#89123e\">**What do you need to do when you are notified of an upcoming EDGE training?**",
+				"titleType": "text",
+				"answer": {
+					"takeaway": "",
+					"incorrect": "Not quite...",
+					"correct": "That's correct!",
+					"text": ""
+				},
+				"game": {
+					"timer": {
+						"limit": -1,
+						"isDisabled": false,
+						"out-of-time-prompt": null
+					}
+				},
+				"prompt": "<font size=\"4\" color=\"#FFFFFF\">Circle the correct answer",
+				"answers": {
+					"correct": "Read all the information shared with you and put together your materials. ",
+					"incorrect": [
+						"Send a welcome email and explain all the goals an ALT must complete to meet expectation.",
+						"Call the ALT and let them know about the goals of the training and not to worry.",
+						"Call the sales coordinator and ask them what the school’s problem is."
+					]
+				},
+				"doneText": "Continue"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.FreeTextSurveySlideDataDocument",
+			"id": "5ad40677-9678-d14d-bc4b-92f4354cb598",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "5ad40677-9678-d14d-bc4b-92f4354cb598",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "free-text-survey",
+			"subtype": "free-text",
+			"name": 3,
+			"displayIndex": 4,
+			"templateName": "Free text",
+			"templateDescription": "Free text input for user feedback",
+			"permanent": false,
+			"data": {
+				"prompt": "<font size=\"4\" color=\"#FFFFFF\">Type your response",
+				"question": {
+					"min": 25,
+					"content": "<font size=\"4\" color=\"#89123e\">**Why do you think it might be important to approach the situation without calling the sales coordinator?**",
+					"contentType": "html",
+					"id": "e76e2065-65ec-d145-0c4b-f8dde1349598"
+				},
+				"doneText": "Continue"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.SpeechBubbleSlideDataDocument",
+			"id": "064d8097-e0ed-4dec-d1fe-511c128e1e44",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "064d8097-e0ed-4dec-d1fe-511c128e1e44",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "speech-bubble",
+			"subtype": "default",
+			"name": 4,
+			"displayIndex": 5,
+			"templateName": "Speech Bubble",
+			"templateDescription": "Display a quote",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"title": "It is possible the sales coordinator already has a scenario in their minds of how the training should go. This might be useful, but it may also cloud the trainer’s personal judgement. ",
+				"titleType": "html",
+				"author": "<font size=\"4\" color=\"#89123e\">** Sedge** ",
+				"avatar": "fit_content_assets/scissors_circle_t2nods.png",
+				"direction": "Left",
+				"bubbleStyle": "Dark",
+				"avatarStyle": "Circle"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.GameTrueOrFalseSlideDataDocument",
+			"id": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5",
+			"metadata": {
+				"questions": [
+					{
+						"question": {
+							"category": null,
+							"content": "All the things the ALT will need to do to complete the training.",
+							"id": "ae280c9b-8d15-494b-a729-1ce92840bca3",
+							"type": "text",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "False",
+								"correct": true,
+								"id": "6cdca322-c270-4f11-92d1-04cd047ee8c5",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "True",
+								"correct": false,
+								"id": "7238dd34-cc82-4e79-b643-589f2464294e",
+								"type": "text",
+								"text": null
+							}
+						],
+						"slideId": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5"
+					},
+					{
+						"question": {
+							"category": null,
+							"content": "A detailed email telling them dates and times you will be attending.",
+							"id": "798b08a1-45c2-4fc0-9e89-125f9e207c58",
+							"type": "text",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "False",
+								"correct": true,
+								"id": "c51bdf5d-ca72-40ed-ac66-d13347b318d5",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "True",
+								"correct": false,
+								"id": "f42dfbab-5008-460a-b7b3-7c6e2f5fea52",
+								"type": "text",
+								"text": null
+							}
+						],
+						"slideId": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5"
+					},
+					{
+						"question": {
+							"category": null,
+							"content": "A welcome pack email and a link to the first introduction module.",
+							"id": "a43b1deb-769a-4755-b93d-24da00af2b43",
+							"type": "text",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "True",
+								"correct": true,
+								"id": "3dac6b99-6f3a-4ba9-8161-f11d273e981d",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "False",
+								"correct": false,
+								"id": "e49240e6-4e1b-474d-b5cd-3a323de15df9",
+								"type": "text",
+								"text": null
+							}
+						],
+						"slideId": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5"
+					},
+					{
+						"question": {
+							"category": null,
+							"content": "A letter of concern and a demand that the ALT improve immediately. ",
+							"id": "69c36187-6a96-4ec3-8cbe-ec78a0181484",
+							"type": "text",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "False",
+								"correct": true,
+								"id": "c8ffc0ed-b50f-4ac6-9997-2dbc786e42a1",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "True",
+								"correct": false,
+								"id": "68257734-50fb-43e7-b22a-0b5557f8f7a7",
+								"type": "text",
+								"text": null
+							}
+						],
+						"slideId": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5"
+					},
+					{
+						"question": {
+							"category": null,
+							"content": "A copy of the form which contained details of why the ALT is being asked to join EDGE training. ",
+							"id": "f514f4e1-41e8-4158-8483-90280d7ae182",
+							"type": "text",
+							"text": null
+						},
+						"answers": [
+							{
+								"content": "False",
+								"correct": true,
+								"id": "4ac166a5-8533-4570-9044-10d3e0fc9b4a",
+								"type": "text",
+								"text": null
+							},
+							{
+								"content": "True",
+								"correct": false,
+								"id": "8f44919a-7286-4ed8-a2aa-eb8f19b85508",
+								"type": "text",
+								"text": null
+							}
+						],
+						"slideId": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5"
+					}
+				],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "6b96b820-9af6-64d0-a1e6-b09b76ee59e5",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "game-true-or-false",
+			"subtype": "true-or-false",
+			"name": 5,
+			"displayIndex": 6,
+			"templateName": "True or False",
+			"templateDescription": "",
+			"permanent": false,
+			"data": {
+				"challenge_configuration": {
+					"nb_stars": null,
+					"weighting": 1
+				},
+				"title": "True or false?",
+				"titleType": "html",
+				"game": {
+					"timer": {
+						"limit": 20000,
+						"isDisabled": true,
+						"out-of-time-prompt": null
+					},
+					"stars": {
+						"max": 1000,
+						"min": 1000
+					}
+				},
+				"prompt": "Swipe to answer",
+				"description": "This will be the content of your first Email you send to EDGE training trainees.",
+				"statements": [
+					{
+						"text": "All the things the ALT will need to do to complete the training.",
+						"true": false
+					},
+					{
+						"text": "A detailed email telling them dates and times you will be attending.",
+						"true": false
+					},
+					{
+						"text": "A welcome pack email and a link to the first introduction module.",
+						"true": true
+					},
+					{
+						"text": "A letter of concern and a demand that the ALT improve immediately. ",
+						"true": false
+					},
+					{
+						"text": "A copy of the form which contained details of why the ALT is being asked to join EDGE training. ",
+						"true": false
+					}
+				],
+				"falseText": "False",
+				"trueText": "True",
+				"doneText": "Move on"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.FreeTextSurveySlideDataDocument",
+			"id": "91f3996e-296d-27d2-45a8-e422adb856a2",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "91f3996e-296d-27d2-45a8-e422adb856a2",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "free-text-survey",
+			"subtype": "free-text",
+			"name": 6,
+			"displayIndex": 7,
+			"templateName": "Free text",
+			"templateDescription": "Free text input for user feedback",
+			"permanent": false,
+			"data": {
+				"prompt": "Type your response",
+				"question": {
+					"min": 25,
+					"content": "<font size=\"4\" color=\"#89123e\">**Why do we remain as ambiguous as possible at this stage?**",
+					"contentType": "html",
+					"id": "23aa9ce0-cb26-5da6-fd27-1dac0f25e672"
+				},
+				"doneText": "Continue"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.SpeechBubbleSlideDataDocument",
+			"id": "ab2704f9-a526-b5bc-dd30-5392307c47d2",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "ab2704f9-a526-b5bc-dd30-5392307c47d2",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "speech-bubble",
+			"subtype": "default",
+			"name": 7,
+			"displayIndex": 8,
+			"templateName": "Speech Bubble",
+			"templateDescription": "Display a quote",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"title": "We want the ALT to not feel negative emotions of judgement or inferiority. What is more, we do not want to undermine our own training before it has begun. Finally, we do not want the ALT to feel overwhelmed by the course.",
+				"titleType": "html",
+				"author": "<font size=\"4\" color=\"#89123e\">** Page** ",
+				"avatar": "fit_content_assets/paper_circle_jhb1gf.png",
+				"direction": "Left",
+				"bubbleStyle": "Dark",
+				"avatarStyle": "Circle"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.FreeTextSurveySlideDataDocument",
+			"id": "72b7ef5c-6239-9c78-f3dd-5f75e5de2abb",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "72b7ef5c-6239-9c78-f3dd-5f75e5de2abb",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "free-text-survey",
+			"subtype": "free-text",
+			"name": 8,
+			"displayIndex": 9,
+			"templateName": "Free text",
+			"templateDescription": "Free text input for user feedback",
+			"permanent": false,
+			"data": {
+				"prompt": "Type your response",
+				"question": {
+					"min": 25,
+					"content": "<font size=\"4\" color=\"#89123e\">**How will you decide if the ALT has met the expectation of the stakeholders? (BoE, School, and the company)**",
+					"contentType": "html",
+					"id": "63e88731-8bfb-a132-7fbb-175b26553d84"
+				},
+				"doneText": "Continue"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.SpeechBubbleSlideDataDocument",
+			"id": "8d4b9799-e38e-3279-b2bd-9fe9c36f9d68",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "8d4b9799-e38e-3279-b2bd-9fe9c36f9d68",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "speech-bubble",
+			"subtype": "default",
+			"name": 9,
+			"displayIndex": 10,
+			"templateName": "Speech Bubble",
+			"templateDescription": "Display a quote",
+			"permanent": false,
+			"data": {
+				"socialLearning": {
+					"enabled": false,
+					"maxResponseLength": 0
+				},
+				"title": "When the ALT is showing enough ability to stand alone. It maybe that the trainer will be standing in the way of further improvement. This happens because the ALT becomes too reliant on the trainer.     \nOnce the ALT shows willingness to share ideas and develop relationships with teachers, we should be ready to move to the mentor stage of the training as soon as possible.",
+				"titleType": "html",
+				"author": "<font size=\"4\" color=\"#89123e\">** Rodge** ",
+				"avatar": "fit_content_assets/rock_circle_joi154.png",
+				"direction": "Left",
+				"bubbleStyle": "Dark",
+				"avatarStyle": "Circle"
+			}
+		},
+		{
+			"_t": "Hippo.Infrastructure.Lessons.Slides.SlideDataDocuments.ExitSlideDataDocument",
+			"id": "f1a432c3-7965-4ba9-b982-30ad73c97ac9",
+			"metadata": {
+				"questions": [],
+				"question": null,
+				"answers": null,
+				"friedrichType": null,
+				"friedrichId": null,
+				"score": null,
+				"slideId": "f1a432c3-7965-4ba9-b982-30ad73c97ac9",
+				"slideIndexWithinQuestionPool": null,
+				"questionPoolNumberQuestions": null
+			},
+			"type": "exit",
+			"subtype": "default",
+			"name": 10,
+			"displayIndex": 11,
+			"templateName": "Exit Lesson",
+			"templateDescription": "",
+			"permanent": true,
+			"data": {
+				"title": "That's it!",
+				"titleType": "html",
+				"content": "Nice work. You've completed this lesson.",
+				"buttonText": "Exit Lesson"
+			}
+		}
+	],
+	"title": "Flow chart explained",
+	"scorm": true,
+	"id": "63719b204c4d50741e735d82"
+}
